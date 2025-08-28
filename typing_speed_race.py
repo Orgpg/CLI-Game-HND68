@@ -7,7 +7,12 @@ def play_game():
         "I love playing CLI games",
         "Typing speed matters a lot",
         "Command line interface is powerful",
-        "Practice makes perfect"
+        "Practice makes perfect",
+        "Speed typing improves coding skills",
+        "Errors slow you down in typing races",
+        "Consistency is the key to success",
+        "Gamers love competing on the terminal",
+        "Learning by doing makes you stronger"
     ]
 
     print("\n==========================")
