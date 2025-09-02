@@ -12,6 +12,7 @@ def play_game():
     guesses = { "Player 1": [], "Player 2": [] }
     scores = {}
 
+
     max_rounds = 3  # total turns per player
     round_icons = ["🔵", "🟢", "🟣", "🟡", "🔴"]  # icon list for rounds
 
